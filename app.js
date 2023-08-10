@@ -1,5 +1,5 @@
 async function textoParaAudio  (texto) {
-    const SPEECH_KEY='d7d18aa8f319462a883b0464b0f7f0ad'
+    const SPEECH_KEY='390c8a6aae774cb7b0a801d65d14d2ad'
     const SPEECH_REGION='eastus'
     const url = `https://${SPEECH_REGION}.tts.speech.microsoft.com/cognitiveservices/v1`
 
